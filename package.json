@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "web3": "^1.0.0-beta.36"
+  },
+  "name": "Head-First-Design-Patterns",
+  "version": "1.0.0",
+  "description": "Typescript implementation",
+  "main": "index.js",
+  "author": "Teng Yung Lin",
+  "license": "MIT"
+}
