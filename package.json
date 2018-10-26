@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "typescript": "^3.1.3",
     "web3": "^1.0.0-beta.36"
   },
   "name": "Head-First-Design-Patterns",
